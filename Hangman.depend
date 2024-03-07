@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1709663148 source:c:\users\jacoa\projects_codeblocks\hangman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
